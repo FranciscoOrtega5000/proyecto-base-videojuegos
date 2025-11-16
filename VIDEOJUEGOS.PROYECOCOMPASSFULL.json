@@ -1,0 +1,360 @@
+[{
+  "_id": {
+    "$oid": "6916a5c1cf22ccb7f1d7a0eb"
+  },
+  "timestamp": "2025-10-28 19:08:34.148",
+  "nombre_completo": "Paul Duran Roldan",
+  "correo_electronico": "paul.duran7352@alumnos.udg.mx",
+  "carrera": "Inteligencia Artificial y Ciencia de los Datos",
+  "videojuego_favorito": "Fortnite",
+  "calificacion": 9,
+  "tipo_videojuego": "Battle Royale"
+},
+{
+  "_id": {
+    "$oid": "6916a5c1cf22ccb7f1d7a0ec"
+  },
+  "timestamp": "2025-10-28 19:19:39.593",
+  "nombre_completo": "Francisco Adonai Ortega Leos",
+  "correo_electronico": "francisco.ortega6448@alumnos.udg.mx",
+  "carrera": "Inteligencia Artificial y Ciencia de los Datos",
+  "videojuego_favorito": "Fortnite",
+  "calificacion": 10,
+  "tipo_videojuego": "Battle Royale"
+},
+{
+  "_id": {
+    "$oid": "6916a5c1cf22ccb7f1d7a0ed"
+  },
+  "timestamp": "2025-10-28 19:25:51.545",
+  "nombre_completo": "Fernanda García Rodríguez ",
+  "correo_electronico": "fernanda.garcia8734@alumnos.udg.mx",
+  "carrera": "Inteligencia Artificial y Ciencia de los Datos",
+  "videojuego_favorito": "Los Sims 4",
+  "calificacion": 8,
+  "tipo_videojuego": "Simulación"
+},
+{
+  "_id": {
+    "$oid": "6916a5c1cf22ccb7f1d7a0ee"
+  },
+  "timestamp": "2025-10-28 19:33:20.227",
+  "nombre_completo": "Carlos Eduardo Mora Salcedo",
+  "correo_electronico": "Carlos.mora6211@alumnos.udg.mx",
+  "carrera": "Creatividad Digital",
+  "videojuego_favorito": "Resident evil 4 remake ",
+  "calificacion": 10,
+  "tipo_videojuego": "Accion"
+},
+{
+  "_id": {
+    "$oid": "6916a5c1cf22ccb7f1d7a0ef"
+  },
+  "timestamp": "2025-10-28 19:58:27.445",
+  "nombre_completo": "Maximo Fernando Uribe Contreras",
+  "correo_electronico": "maximo.uribe6232@alumnos.udg.mx",
+  "carrera": "Creatividad Digital",
+  "videojuego_favorito": "Blazblue Centralfiction",
+  "calificacion": 10,
+  "tipo_videojuego": "Lucha"
+},
+{
+  "_id": {
+    "$oid": "6916a5c1cf22ccb7f1d7a0f0"
+  },
+  "timestamp": "2025-10-28 20:04:29.998",
+  "nombre_completo": "Andrea Lisseth Carcaño Aguayo ",
+  "correo_electronico": "andrea.carcano4900@alumnos.udg.mx",
+  "carrera": "Ciberseguridad",
+  "videojuego_favorito": "Valorant ",
+  "calificacion": 8,
+  "tipo_videojuego": "Shooter"
+},
+{
+  "_id": {
+    "$oid": "6916a5c1cf22ccb7f1d7a0f1"
+  },
+  "timestamp": "2025-10-28 20:04:38.542",
+  "nombre_completo": "Jorge Iván Gutiérrez Amezcua ",
+  "correo_electronico": "jorge.gutierrez2498@alumnos.udg.mx",
+  "carrera": "Inteligencia Artificial y Ciencia de los Datos",
+  "videojuego_favorito": "Omori 🖤",
+  "calificacion": 10,
+  "tipo_videojuego": "Terror psicológico "
+},
+{
+  "_id": {
+    "$oid": "6916a5c1cf22ccb7f1d7a0f2"
+  },
+  "timestamp": "2025-10-28 20:07:58.904",
+  "nombre_completo": "Axel",
+  "correo_electronico": "Axel.sanchez2261@alumnos.udg.mx",
+  "carrera": "Inteligencia Artificial y Ciencia de los Datos",
+  "videojuego_favorito": "Fornite",
+  "calificacion": 10,
+  "tipo_videojuego": "Shooter"
+},
+{
+  "_id": {
+    "$oid": "6916a5c1cf22ccb7f1d7a0f3"
+  },
+  "timestamp": "2025-10-28 20:30:25.685",
+  "nombre_completo": "Diego Telles Cisneros ",
+  "correo_electronico": "diegotellesc@gmail.com",
+  "carrera": "Creatividad Digital",
+  "videojuego_favorito": "Street Fighter 6",
+  "calificacion": 9,
+  "tipo_videojuego": "Lucha"
+},
+{
+  "_id": {
+    "$oid": "6916a5c1cf22ccb7f1d7a0f4"
+  },
+  "timestamp": "2025-10-28 20:50:08.004",
+  "nombre_completo": "Daniel Armando Ramirez Jurado",
+  "correo_electronico": "daniel.ramirez2961@alumnos.udg.mx",
+  "carrera": "Inteligencia Artificial y Ciencia de los Datos",
+  "videojuego_favorito": "Persona 5 Royale",
+  "calificacion": 10,
+  "tipo_videojuego": "Rol"
+},
+{
+  "_id": {
+    "$oid": "6916a5c1cf22ccb7f1d7a0f5"
+  },
+  "timestamp": "2025-10-28 20:53:02.100",
+  "nombre_completo": "Adrian Francisco Ramirez Garcia",
+  "correo_electronico": "adrian.ramirez9456@alumnos.udg.mx",
+  "carrera": "Inteligencia Artificial y Ciencia de los Datos",
+  "videojuego_favorito": "Injustice 2",
+  "calificacion": 9,
+  "tipo_videojuego": "Lucha"
+},
+{
+  "_id": {
+    "$oid": "6916a5c1cf22ccb7f1d7a0f6"
+  },
+  "timestamp": "2025-10-29 00:16:15.113",
+  "nombre_completo": "Noemi Nazareth Quezada Zarco ",
+  "correo_electronico": "noemi.quezada9653@alumnos.udg.mx",
+  "carrera": "Ciberseguridad",
+  "videojuego_favorito": "The Legend of Zelda (cualquiera de la saga)",
+  "calificacion": 9,
+  "tipo_videojuego": "Aventura"
+},
+{
+  "_id": {
+    "$oid": "6916a5c1cf22ccb7f1d7a0f7"
+  },
+  "timestamp": "2025-10-29 10:52:23.446",
+  "nombre_completo": "Ángel Gael Álvarez López",
+  "correo_electronico": "angel.alvarez6446@alumnos.udg.mx",
+  "carrera": "Inteligencia Artificial y Ciencia de los Datos",
+  "videojuego_favorito": "Red Dead Redemption 2",
+  "calificacion": 10,
+  "tipo_videojuego": "Aventura"
+},
+{
+  "_id": {
+    "$oid": "6916a5c1cf22ccb7f1d7a0f8"
+  },
+  "timestamp": "2025-11-05 08:46:01.130",
+  "nombre_completo": "Juan Alexander Rodríguez Nájera",
+  "correo_electronico": "juan.rodriguez2502@alumnos.udg.mx",
+  "carrera": "Inteligencia Artificial y Ciencia de los Datos",
+  "videojuego_favorito": "SOMA",
+  "calificacion": 10,
+  "tipo_videojuego": "Aventura"
+},
+{
+  "_id": {
+    "$oid": "6916a5c1cf22ccb7f1d7a0f9"
+  },
+  "timestamp": "2025-11-05 08:46:04.691",
+  "nombre_completo": "James Kristof Ubiarco Rodriguez",
+  "correo_electronico": "james.ubiarco6445@alumnos.udg.mx",
+  "carrera": "Inteligencia Artificial y Ciencia de los Datos",
+  "videojuego_favorito": "Dark Souls 2",
+  "calificacion": 9,
+  "tipo_videojuego": "Rol"
+},
+{
+  "_id": {
+    "$oid": "6916a5c1cf22ccb7f1d7a0fa"
+  },
+  "timestamp": "2025-11-05 08:46:09.808",
+  "nombre_completo": "Samantha Castro",
+  "correo_electronico": "samantha.castro8720@alumnos.udg.mx",
+  "carrera": "Inteligencia Artificial y Ciencia de los Datos",
+  "videojuego_favorito": "Zelda: Tears of The Kingdom",
+  "calificacion": 10,
+  "tipo_videojuego": "Aventura"
+},
+{
+  "_id": {
+    "$oid": "6916a5c1cf22ccb7f1d7a0fb"
+  },
+  "timestamp": "2025-11-05 08:46:11.048",
+  "nombre_completo": "Ángel García Valle ",
+  "correo_electronico": "profesional.academy.josh@gmail.com",
+  "carrera": "Inteligencia Artificial y Ciencia de los Datos",
+  "videojuego_favorito": "Age of Empires conqueros",
+  "calificacion": 10,
+  "tipo_videojuego": "Estrategia"
+},
+{
+  "_id": {
+    "$oid": "6916a5c1cf22ccb7f1d7a0fc"
+  },
+  "timestamp": "2025-11-05 09:15:33.158",
+  "nombre_completo": "Diana García Trujillo ",
+  "correo_electronico": "diana.garcia6424@alumnos.udg.mx",
+  "carrera": "Inteligencia Artificial y Ciencia de los Datos",
+  "videojuego_favorito": "mario kart ",
+  "calificacion": 9,
+  "tipo_videojuego": "Carreras"
+},
+{
+  "_id": {
+    "$oid": "6916a5c1cf22ccb7f1d7a0fd"
+  },
+  "timestamp": "2025-11-05 09:24:50.034",
+  "nombre_completo": "Victor Hugo López Martín ",
+  "correo_electronico": "Victor.lmartin@alumnos.udg.mx",
+  "carrera": "Inteligencia Artificial y Ciencia de los Datos",
+  "videojuego_favorito": "Call of duty mobile",
+  "calificacion": 10,
+  "tipo_videojuego": "Shooter"
+},
+{
+  "_id": {
+    "$oid": "6916a5c1cf22ccb7f1d7a0fe"
+  },
+  "timestamp": "2025-11-05 09:46:57.717",
+  "nombre_completo": "Iris Alina Pérez Rivera",
+  "correo_electronico": "iris.perez8728@alumnos.udg.mx",
+  "carrera": "Inteligencia Artificial y Ciencia de los Datos",
+  "videojuego_favorito": "Genshin Impact",
+  "calificacion": 9,
+  "tipo_videojuego": "Aventura"
+},
+{
+  "_id": {
+    "$oid": "6916a5c1cf22ccb7f1d7a0ff"
+  },
+  "timestamp": "2025-11-05 10:12:14.000",
+  "nombre_completo": "Alejandra Ramos Morales",
+  "correo_electronico": "alejandra.ramos8421@alumnos.udg.mx",
+  "carrera": "Inteligencia Artificial y Ciencia de los Datos",
+  "videojuego_favorito": "Hollow Knight",
+  "calificacion": 10,
+  "tipo_videojuego": "Metroidvania"
+},
+{
+  "_id": {
+    "$oid": "6916a5c1cf22ccb7f1d7a100"
+  },
+  "timestamp": "2025-11-05 10:25:50.000",
+  "nombre_completo": "Luis Fernando Beltrán Rivas",
+  "correo_electronico": "luis.beltran6322@alumnos.udg.mx",
+  "carrera": "Creatividad Digital",
+  "videojuego_favorito": "Minecraft",
+  "calificacion": 9,
+  "tipo_videojuego": "Sandbox"
+},
+{
+  "_id": {
+    "$oid": "6916a5c1cf22ccb7f1d7a101"
+  },
+  "timestamp": "2025-11-05 10:33:09.000",
+  "nombre_completo": "María José Hernández Ruiz",
+  "correo_electronico": "maria.hernandez7421@alumnos.udg.mx",
+  "carrera": "Ciberseguridad",
+  "videojuego_favorito": "Overwatch 2",
+  "calificacion": 8,
+  "tipo_videojuego": "Shooter"
+},
+{
+  "_id": {
+    "$oid": "6916a5c1cf22ccb7f1d7a102"
+  },
+  "timestamp": "2025-11-05 10:44:55.000",
+  "nombre_completo": "Sergio Iván Torres Aguilar",
+  "correo_electronico": "sergio.torres9765@alumnos.udg.mx",
+  "carrera": "Inteligencia Artificial y Ciencia de los Datos",
+  "videojuego_favorito": "Bloodborne",
+  "calificacion": 10,
+  "tipo_videojuego": "Rol"
+},
+{
+  "_id": {
+    "$oid": "6916a5c1cf22ccb7f1d7a103"
+  },
+  "timestamp": "2025-11-05 10:55:21.000",
+  "nombre_completo": "Karen Itzel Pérez Solís",
+  "correo_electronico": "karen.perez8433@alumnos.udg.mx",
+  "carrera": "Creatividad Digital",
+  "videojuego_favorito": "Splatoon 3",
+  "calificacion": 9,
+  "tipo_videojuego": "Shooter"
+},
+{
+  "_id": {
+    "$oid": "6916a5c1cf22ccb7f1d7a104"
+  },
+  "timestamp": "2025-11-05 11:02:47.000",
+  "nombre_completo": "Emilio Rodríguez Galván",
+  "correo_electronico": "emilio.rodriguez9233@alumnos.udg.mx",
+  "carrera": "Ciberseguridad",
+  "videojuego_favorito": "Dead by Daylight",
+  "calificacion": 8,
+  "tipo_videojuego": "Terror"
+},
+{
+  "_id": {
+    "$oid": "6916a5c1cf22ccb7f1d7a105"
+  },
+  "timestamp": "2025-11-05 11:15:33.000",
+  "nombre_completo": "Diego Armando Becerra López",
+  "correo_electronico": "diego.becerra7644@alumnos.udg.mx",
+  "carrera": "Inteligencia Artificial y Ciencia de los Datos",
+  "videojuego_favorito": "Assassin's Creed Odyssey",
+  "calificacion": 9,
+  "tipo_videojuego": "Aventura"
+},
+{
+  "_id": {
+    "$oid": "6916a5c1cf22ccb7f1d7a106"
+  },
+  "timestamp": "2025-11-05 11:26:01.000",
+  "nombre_completo": "Valeria Sofía Ávila Contreras",
+  "correo_electronico": "valeria.avila8743@alumnos.udg.mx",
+  "carrera": "Inteligencia Artificial y Ciencia de los Datos",
+  "videojuego_favorito": "Stardew Valley",
+  "calificacion": 10,
+  "tipo_videojuego": "Simulación"
+},
+{
+  "_id": {
+    "$oid": "6916a5c1cf22ccb7f1d7a107"
+  },
+  "timestamp": "2025-11-05 11:40:12.000",
+  "nombre_completo": "Roberto Carlos Meza Salas",
+  "correo_electronico": "roberto.meza5312@alumnos.udg.mx",
+  "carrera": "Creatividad Digital",
+  "videojuego_favorito": "League of Legends",
+  "calificacion": 9,
+  "tipo_videojuego": "Estrategia"
+},
+{
+  "_id": {
+    "$oid": "6916a5c1cf22ccb7f1d7a108"
+  },
+  "timestamp": "2025-11-05 11:55:48.000",
+  "nombre_completo": "Andrea Guadalupe Rivas Mendoza",
+  "correo_electronico": "andrea.rivas6422@alumnos.udg.mx",
+  "carrera": "Inteligencia Artificial y Ciencia de los Datos",
+  "videojuego_favorito": "Forza Horizon 5",
+  "calificacion": 10,
+  "tipo_videojuego": "Carreras"
+}]
